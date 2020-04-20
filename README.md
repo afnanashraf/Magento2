@@ -1,15 +1,12 @@
-![Magento 2](https://cdn.rawgit.com/rafaelstz/magento2-snippets-visualstudio/master/images/icon.png)
-
 #  Magento 2 Docker to Development
 
 ### Apache 2.4 + PHP 7.1 + OPCache + MariaDB + N98 Magerun 2 + XDebug + Redis
 
-[![Build Status](https://travis-ci.org/clean-docker/Magento2.svg?branch=master)](https://travis-ci.org/clean-docker/Magento2)
-[![Docker Build](https://img.shields.io/docker/build/rafaelcgstz/magento2.svg)](https://hub.docker.com/r/rafaelcgstz/magento2/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/rafaelcgstz/magento2.svg)](https://hub.docker.com/r/rafaelcgstz/magento2/)
-[![Docker Starts](https://img.shields.io/docker/stars/rafaelcgstz/magento2.svg)](https://hub.docker.com/r/rafaelcgstz/magento2/)
-[![Build Status](https://images.microbadger.com/badges/image/rafaelcgstz/magento2.svg)](https://microbadger.com/images/rafaelcgstz/magento2)
-[![Releases](https://img.shields.io/github/release/clean-docker/Magento2.svg)](https://github.com/clean-docker/Magento2/releases)
+[![Build Status](https://travis-ci.org/afnanashraf/Magento2.svg?branch=master)](https://travis-ci.org/afnanashraf/Magento2)
+[![Docker Build](https://img.shields.io/docker/build/afnankuberiter/magento2.svg)](https://hub.docker.com/r/afnankuberiter/magento2/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/afnankuberiter/magento2.svg)](https://hub.docker.com/r/afnankuberiter/magento2/)
+[![Docker Starts](https://img.shields.io/docker/stars/afnankuberiter/magento2.svg)](https://hub.docker.com/r/afnankuberiter/magento2/)
+[![Releases](https://img.shields.io/github/release/afnanashraf/Magento2.svg)](https://github.com/afnanashraf/Magento2/releases)
 
 ### Requirements
 
@@ -30,7 +27,7 @@ Install [Docker](https://docs.docker.com/engine/installation/linux/docker-ce/ubu
 Execute in your terminal, change the *MYMAGENTO2* to use the name of your project:
 
 ```
-curl -s https://raw.githubusercontent.com/clean-docker/Magento2/master/init | bash -s MYMAGENTO2 clone
+curl -s https://raw.githubusercontent.com/afnanashraf/Magento2/master/init | bash -s MYMAGENTO2 clone
 ```
 
 If you want to install the Magento 2, use like that:
@@ -84,4 +81,4 @@ or to run in the background using detached mode
 
 ### License
 
-MIT © 2018 [Rafael Corrêa Gomes](https://github.com/rafaelstz/) and [contributors](https://github.com/clean-docker/Magento2/graphs/contributors).
+[contributors](https://github.com/afnanashraf/Magento2/graphs/contributors).
